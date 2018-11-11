@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
+![RN Youtube UI](https://snag.gy/jI2u8r.jpg)
 
-Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
+This is an exact replica of the official YouTube app, made from scratch in React Native. 
 
 ## Table of Contents
 
@@ -25,6 +25,12 @@ Below you'll find information about performing common tasks. The most recent ver
   * [Networking](#networking)
   * [iOS Simulator won't open](#ios-simulator-wont-open)
   * [QR Code does not scan](#qr-code-does-not-scan)
+
+## React Native 
+This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
+
+Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
+
 
 ## Updating to New Releases
 
