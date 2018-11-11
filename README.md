@@ -1,6 +1,10 @@
 ![RN Youtube UI](https://snag.gy/jI2u8r.jpg)
 
-This is an exact replica of the official YouTube app, made from scratch in React Native. 
+# React Native YouTube replica
+*This is an exact replica of the official YouTube app, made from scratch in React Native.*
+
+Please note that since written there have been vulnerabilities found in the packages cryptiles, merge and to a lesser extent randomatic.
+Since it is only for demonstration of capabilities, that should not be a concern. 
 
 ## Table of Contents
 
