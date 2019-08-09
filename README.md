@@ -3,8 +3,9 @@
 # React Native YouTube replica
 **This is an exact replica of the official YouTube app, made from scratch in React Native.**
 
-Please note that since written there have been vulnerabilities found in the packages cryptiles, merge and to a lesser extent randomatic.
-Since it is only for demonstration of capabilities, that should not be a concern. 
+Please note that since written there have been vulnerabilities found in the packages ```cryptiles```, ```merge``` and to a lesser extent in ```randomatic```.  According to several posts on StackExchange the report is caused by a mistake in the Github reading of dependencies and all three problems have been resolved in the latest updates. See [here](https://github.com/hapijs/statehood/issues/45) for example. 
+
+Since it is only for demonstration of capabilities, and is not going to be used by anyone in the near future, I am not updating the code. If this is a concern for anyone please open an issue. 
 
 ## Table of Contents
 
